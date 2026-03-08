@@ -1,4 +1,4 @@
-package MMahasiswa.src;
+
 public class MataKuliah {
     private String idMatKul;
     private String nama;

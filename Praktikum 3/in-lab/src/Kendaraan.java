@@ -1,4 +1,4 @@
-package MMahasiswa.src;
+
 public class Kendaraan {
 
     private String noPlat;
